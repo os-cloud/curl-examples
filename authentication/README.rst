@@ -30,8 +30,8 @@ Authentication v1.0
 Authentication v2.0
 -------------------
 
-US - `AUTHURL='https://identity.api.rackspacecloud.com/v2.0/'`
-UK - `AUTHURL='https://lon.identity.api.rackspacecloud.com/v2.0/'`
+* US - `AUTHURL='https://identity.api.rackspacecloud.com/v2.0/'`
+* UK - `AUTHURL='https://lon.identity.api.rackspacecloud.com/v2.0/'`
 
 
 You can authenticate against v2.0 API by two ways. You can request a token by providing your username and your API key or username and password.
@@ -67,7 +67,7 @@ Example JSON structure when POST'ing data for Authentication
 
 apiKey Authentication:
 
-  .. code:: json
+.. code:: json
 
   {
     "auth":{
@@ -81,7 +81,7 @@ apiKey Authentication:
 
 Password Authentication:
 
-  .. code:: json
+.. code:: json
 
   {
     "auth":{
