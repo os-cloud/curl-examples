@@ -47,12 +47,10 @@ HTTPS CDN Access
 In order to use SSL on the CDN, you simply have to change "http" to "https" and "rXX" to "ssl". For
 
 example:
-
   http://c193732.r32.cf1.rackcdn.com/100mbtest
 
 
 would become:
-
   https://c193732.ssl.cf1.rackcdn.com/100mbtest
 
 
