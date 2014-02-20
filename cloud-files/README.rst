@@ -27,14 +27,14 @@ Storage URLs
 ------------
 
 ORD:
-
   * Public : https://storage101.ord1.clouddrive.com/v1/${MOSSOID}
+
   * SNET : https://snet-storage101.ord1.clouddrive.com/v1/${MOSSOID}
 
 
 DFW:
-
   * Public : https://storage101.dfw1.clouddrive.com/v1/${MOSSOID}
+
   * SNET : https://snet-storage101.dfw1.clouddrive.com/v1/${MOSSOID}
 
 
