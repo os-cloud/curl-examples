@@ -67,7 +67,7 @@ Update Load Balancer To Use SSL
 
 .. code:: bash
 
-  CURL -D - -X PUT -H "X-AUTH-TOKEN: ${AUTHTOKEN}" -H "Content-type: application/json" --data-binary  @${FILENAME} https://${DATACENTER}.loadbalancers.api.rackspacecloud.com/v1.0/${DDI}/loadbalancers/${LBID}/
+  curl -D - -X PUT -H "X-AUTH-TOKEN: ${AUTHTOKEN}" -H "Content-type: application/json" --data-binary  @${FILENAME} https://${DATACENTER}.loadbalancers.api.rackspacecloud.com/v1.0/${DDI}/loadbalancers/${LBID}/
 
 
 JSON Example:
